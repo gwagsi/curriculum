@@ -4269,6 +4269,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [TheScurvyPirate's Solution (Easy)](https://github.com/TheScurvyPirate/odin-google-homepage) - [View in Browser](https://thescurvypirate.github.io/odin-google-homepage/)
 * [Buddie's Solution (Easy)](https://github.com/BuddieChapman/google-homepage) - [View in Browser](https://buddiechapman.github.io/google-homepage/)
 * [Austin's Solution (Easy)](https://github.com/austinbhan/google-homepage) - [View in Browser](https://austinbhan.github.io/google-homepage/)
+* [Gwagsi's Solution (Easy)](https://github.com/gwagsi/google-clone) - [View in Browser](https://gwagsi.github.io/google-clone/)
+
 </details>
 
 ### Additional Resources
